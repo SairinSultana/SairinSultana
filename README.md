@@ -1,6 +1,7 @@
 - 👋 Assalamualaikum, I’m @SairinSultana
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Developing
+- 👀 Exploring the world of coding
+- 🌱 currently learning  Python, JavaScript and Web Development
+- 🎯 Aiming to contribute to open-source and develop scalable web apps
 
 
 <!---
